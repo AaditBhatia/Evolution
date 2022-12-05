@@ -1,0 +1,9 @@
+Stage 1 (discovering fire):
+We will make a hidden treasure box which will open if you answer a General Knowledge Question correctly
+This box will contain the axe.
+Axe will be used to cut the tree
+We will give an option to cut the tree when you are in the radius of the tree.
+If the option is chosen we will present qnother question. Wood will be obtained only if the question is answered correctly.
+Otherwise you lose health.
+We need to find stones to light the fire.
+It is getting colder with time your goal in the game is to make fire before (the timer runs out) you freeze to death.
